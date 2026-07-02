@@ -164,7 +164,10 @@ At the end of each run, the pipeline automatically compiles operational metrics 
 
 ## Contributors
 
-- **Sri Desiyan** (Lead Developer & Intern)
+- **SRI DESIYAN V**
+- Gauri Sudharshini P
+- Ananya I
+- Rishikesh E
 - **AI COE Team** (Supervisors and Framework Authors)
 
 ---
