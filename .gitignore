@@ -45,12 +45,12 @@ Thumbs.db
 *.mkv
 *.webm
 
-# Large model weights (avoid repository bloat)
+# Large model weights (yolov8n.pt and osnet are explicitly tracked)
 *.pt
 *.pth
-yolov8n.pt
+!yolov8n.pt
+!embedding/osnet_x1_0_msmt17.pth
 yolov8s.pt
-embedding/osnet_x1_0_msmt17.pth
 
 # Model training and checkpoint directories
 training_output/
