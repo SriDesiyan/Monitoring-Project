@@ -44,6 +44,10 @@ Thumbs.db
 *.mov
 *.mkv
 *.webm
+!test\ videos/
+!test\ videos/*.mp4
+test\ videos/table_wghotel_test_3.mp4
+test\ videos/example test 2.mp4
 
 # Large model weights (yolov8n.pt and osnet are explicitly tracked)
 *.pt

@@ -44,7 +44,7 @@ def run_pipeline(debug_mode=False):
     
     cmd = [
         sys.executable, "-u", "analytics/pipeline.py",
-        "--video", "Hotet_Test_1.mp4",
+        "--video", "test videos/Hotet_Test_1.mp4",
         "--out", str(out_path),
         "--tables", "analytics/config/tables_hotet_test_1.json",
         "--use-fsm",

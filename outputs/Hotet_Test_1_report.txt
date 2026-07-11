@@ -15,11 +15,11 @@ Torch Version: 2.6.0+cu124
 Execution Summary (Standard Run)
 ----------------------------------------------------------
 Total Frames Processed     : 53 (Every 5th frame)
-Total Processing Time      : 19.60 seconds
-Average FPS                : 2.70
-Average GPU Usage          : 20.8%
-Average Inference Time     : 31.85 ms
-Average Tracking Time      : 99.61 ms
+Total Processing Time      : 39.79 seconds
+Average FPS                : 1.33
+Average GPU Usage          : 3.6%
+Average Inference Time     : 50.71 ms
+Average Tracking Time      : 213.64 ms
 
 ----------------------------------------------------------
 Restaurant Operational Metrics
